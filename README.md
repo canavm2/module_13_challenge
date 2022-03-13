@@ -21,7 +21,7 @@ Other than Python 3.7, the sklearn and tensorflow packages are required, Jupyter
 
 sklearn and imbalanced-learn can be installed form the CLI with the following:
 
-conda list scikit-learn
+conda install -c conda-forge imbalanced-learn
 
 pip install --upgrade tensorflow
 
